@@ -1,7 +1,7 @@
 ## Calculadora de IMC(Índice de Massa Corporal)
 
 ### Sobre o projeto:
-Realizado sob a supervisão e suporte da professora Jéssica Oliveira, no curso de Desenvolvimento Web e Mobile do Instituto Muraki, esse aplicativo possui a função de calcular o índice de massa corporal do usuário, é simples e intuitivo. Mas testei os meus conhecimentos adquiridos até então no curso, como: a criação de mais de uma tela,  criação de rotas para fazer a navegação entre as telas, estilizar as telas.
+Realizado sob a supervisão e suporte da professora Jéssica Oliveira, no curso de Desenvolvimento Web e Mobile do Instituto Muraki, esse aplicativo possui a função de calcular o índice de massa corporal do usuário, é simples e intuitivo. Mas coloquei em prática os meus conhecimentos adquiridos até então no curso, como: a criação de mais de uma tela,  criação de rotas para fazer a navegação entre as telas, estilizar as telas.
 
 ### Linguagens e Ferramentas utilizadas:
 - React Native
