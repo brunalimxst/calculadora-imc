@@ -12,10 +12,6 @@ Realizado sob a supervisão e suporte da professora Jéssica Oliveira, no curso 
 ### Como funciona:
 O usuário tem uma tela principal onde clica no botão que leva direto para a calculadora, e lá é onde ele insere suas informações de altura e peso, assim que ele clica para calcular, o aplicativo devolve um resultado em alerta para ele, contendo as informações do seu IMC e sua classificação.
 
-### Tela Principal
-
-![principal](https://user-images.githubusercontent.com/101392608/172872181-ca934524-9a68-4ddf-a775-c8ff60f35fae.jpg)
-
 
 ### Tela de Cálculo
 
